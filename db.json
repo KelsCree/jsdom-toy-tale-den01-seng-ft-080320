@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 0
     },
     {
       "id": 3,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Kelsey Creehan",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0435761%2F&psig=AOvVaw1eCUIG_Ds7hn6f-ZtgIuJK&ust=1600727506121000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDzm-Xk-OsCFQAAAAAdAAAAABAL",
+      "likes": 9,
+      "id": 9
+    },
+    {
+      "name": "Josh",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0435761%2F&psig=AOvVaw1eCUIG_Ds7hn6f-ZtgIuJK&ust=1600727506121000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDzm-Xk-OsCFQAAAAAdAAAAABAL",
+      "likes": 2,
+      "id": 10
+    },
+    {
+      "name": "Kevin",
+      "image": "wgjkwehlfkjwelfk",
+      "likes": 2,
+      "id": 11
     }
   ]
 }
